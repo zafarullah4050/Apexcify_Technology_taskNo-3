@@ -1,4 +1,3 @@
-# Apexcify_Technology_taskNo-3
 # 🎭 Face Emotion Classification Module
 
 Real-time face emotion classification using TensorFlow Lite models trained with Google's Teachable Machine.

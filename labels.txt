@@ -1,0 +1,3 @@
+0 Happy Face
+1 Sad Face
+2 Neutral
